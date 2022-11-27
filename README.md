@@ -12,6 +12,8 @@ kepada class segitiga, dan override method luas pada class segitiga dengan mengi
 4. class Persegi mengextends kepada class abstraact bangundatar terdapat variabel tinggi dan lebar yang bersifat private dengan tipe data float, lalu membuat contructor dengan parameter float tinggi dan float lebar dengan nilai this.tinggi = tinggi dan this.lebar = lebar, lalu override method gambar yang telah dibuat di abstract class bangunDatar 
 kepada class segitiga, dan override method luas pada class persegi dengan mengisikan nilai return this.tinggi * this.lebar
 
+5. pada kelas utama membuat objeck untuk memanggil method gambar dan luas 
+
 
 
  
